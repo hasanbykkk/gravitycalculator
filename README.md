@@ -48,4 +48,5 @@ public class GravityCalculator {
 
 
 **Output of this code**
+![image](https://user-images.githubusercontent.com/99807200/154579439-6508da8b-4c0c-4290-9b7f-e50e959c2060.png)
 
