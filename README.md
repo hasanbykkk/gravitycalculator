@@ -23,6 +23,7 @@ class GravityCalculator {
 
 
 **Output of this code**
+![image](https://user-images.githubusercontent.com/99807200/154579337-a87de9e4-4468-4683-857f-6920df8bbd70.png)
 
 
 
